@@ -8,29 +8,21 @@ icon = "home"
 newtab = true
 
 [[main]]
-identifier = "About me"
-name = "About me"
-url = "/about"
+identifier = "superhuman"
+name = "Superhuman"
+url = "/superhuman"
 [main.params]
-icon = "about"
+icon = "superhuman"
 newtab = true
 
-[[main]]
-identifier = "blog"
-name = "Blog"
-url = "/blog"
-[main.params]
-icon = "blog"
-newtab = true
 
 [[main]]
-identifier = "projects"
+identifier = "device-projector"
 name = "Projects"
 url = "/projects"
 [main.params]
-icon = "projects"
+icon = "device-projector"
 newtab = true
-
 
 
 [[social]]
