@@ -30,13 +30,13 @@ url = "https://www.linkedin.com/in/adi-dom/"
 [social.params]
 icon = "brand-linkedin"
 
-[[social]]
-identifier = "instagram"
-name = "Instagram"
-url = "https://www.instagram.com/arawn_.10/"
+#[[social]]
+#identifier = "instagram"
+#name = "Instagram"
+#url = "https://www.instagram.com/arawn_.10/"
 
-[social.params]
-icon = "brand-instagram"
+#[social.params]
+#icon = "brand-instagram"
 
 [[social]]
 identifier = "RSS"
