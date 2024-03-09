@@ -29,17 +29,14 @@ url = "https://www.linkedin.com/in/adi-dom/"
 [social.params]
 icon = "brand-linkedin"
 
-#[[social]]
-#identifier = "instagram"
-#name = "Instagram"
-#url = "https://www.instagram.com/arawn_.10/"
+[[social]]
+identifier = "rss"
+name = "RSS"
+url = "/index.xml"
 
-#[social.params]
-#icon = "brand-instagram"
+[social.params]
+icon = "rss"
 
-# Configure the RSS feed
-rss = true
-show_rss_icon = true
-rss_title = "Subscribe to my feed"
-rss_description = "Stay up to date with my latest posts"
+
+
 
