@@ -1,11 +1,37 @@
 # Configure main menu and social menu
-#[[main]]
-#identifier = "home"
-#name = "Home"
-#url = "/"
-#[main.params]
-#icon = "home"
-#newtab = true
+[[main]]
+identifier = "home"
+name = "Home"
+url = "/"
+[main.params]
+icon = "home"
+newtab = true
+
+[[main]]
+identifier = "About me"
+name = "About me"
+url = "/about"
+[main.params]
+icon = "about"
+newtab = true
+
+[[main]]
+identifier = "blog"
+name = "Blog"
+url = "/blog"
+[main.params]
+icon = "blog"
+newtab = true
+
+[[main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects"
+[main.params]
+icon = "projects"
+newtab = true
+
+
 
 [[social]]
 identifier = "github"
@@ -39,4 +65,10 @@ url = "https://www.instagram.com/arawn_.10/"
 [social.params]
 icon = "brand-instagram"
 
+[[social]]
+identifier = "RSS"
+name = "RSS"
+url = "/index.xml"
 
+[social.params]
+icon = "rss"
