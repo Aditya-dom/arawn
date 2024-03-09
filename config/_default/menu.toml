@@ -5,7 +5,6 @@
 #url = "/"
 #weight = 1
 
-
 [[social]]
 identifier = "github"
 name = "GitHub"
