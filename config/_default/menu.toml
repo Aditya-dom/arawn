@@ -1,28 +1,9 @@
 # Configure main menu and social menu
-[[main]]
-identifier = "home"
-name = "Home"
-url = "/"
-[main.params]
-icon = "home"
-newtab = true
 
-[[main]]
-identifier = "superhuman"
-name = "Superhuman"
-url = "/superhuman"
-[main.params]
-icon = "superhuman"
-newtab = true
-
-
-[[main]]
-identifier = "device-projector"
-name = "Projects"
-url = "/projects"
-[main.params]
-icon = "device-projector"
-newtab = true
+#[[menu.main]]
+#name = "Home"
+#url = "/"
+#weight = 1
 
 
 [[social]]
