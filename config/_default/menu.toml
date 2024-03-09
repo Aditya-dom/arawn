@@ -38,10 +38,9 @@ icon = "brand-linkedin"
 #[social.params]
 #icon = "brand-instagram"
 
-[[social]]
-identifier = "RSS"
-name = "RSS"
-url = "/index.xml"
+# Configure the RSS feed
+rss = true
+show_rss_icon = true
+rss_title = "Subscribe to my feed"
+rss_description = "Stay up to date with my latest posts"
 
-[social.params]
-icon = "rss"
