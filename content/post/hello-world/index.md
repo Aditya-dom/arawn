@@ -1,5 +1,5 @@
 ---
-title: "Harmonizing Emotions"
+title: Harmonizing Emotions: 
 description: Exploring the Profound Connection Between Music and Human Feelings
 slug: Harmonizing-Emotions
 date: 2022-03-06 00:00:00+0000
