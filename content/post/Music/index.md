@@ -7,7 +7,7 @@ image: cover.jpg
 categories:
     - Blog 
 tags:
-    - Example Tag
+    - Music
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
