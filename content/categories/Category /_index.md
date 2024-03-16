@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: TechTrend
+description: Navigating the Digital Frontier
 image:
 
 # Badge style
