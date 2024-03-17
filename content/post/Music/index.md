@@ -27,6 +27,19 @@ Beyond mere entertainment or artistic expression, music becomes a sacred offerin
 
 In the end, the connection between music, human emotions, and Hindu mythology is not merely a matter of cultural tradition or religious belief. It is a profound reminder of the inherent unity of all existence, a testament to the power of sound to transcend the limitations of the material world and connect us to the eternal rhythms of the cosmos. And in this divine symphony, we find solace, inspiration, and a glimpse of the ineffable beauty that lies at the heart of creation itself.
 
-
-
-
+<script src="https://giscus.app/client.js"
+        data-repo="Aditya-dom/arawn.github.io"
+        data-repo-id="R_kgDOLeAbmQ"
+        data-category="General"
+        data-category-id="DIC_kwDOLeAbmc4CeCQd"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="dark_dimmed"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -1,6 +1,7 @@
 ---
 title: Setting up my Mac
 publishDate: '2024-03-14T22:48:00'
+image: setup.jpeg
 categories: Programming
 tags:
 - Programming
@@ -10,6 +11,8 @@ slug: mac-system-setup
 weight: 3    # You can add weight to some posts to override the default sorting (date descending)
 ---
 # System Setup Log
+
+
 
 As an avid user of the MacBook Pro 13 (2022), I am thrilled to share my enthusiastic endorsement of this remarkable device. From its sleek and elegant design to its unparalleled performance and innovative features, the MacBook Pro 13 (2022) has exceeded my expectations on every front.
 
@@ -153,3 +156,20 @@ to check out formatting, after which do `make github` to push to github pages, w
 you're reading now (this article has been made from the mac :)
 
 for further updates, refer to the repository linked above.
+
+<script src="https://giscus.app/client.js"
+        data-repo="Aditya-dom/arawn.github.io"
+        data-repo-id="R_kgDOLeAbmQ"
+        data-category="General"
+        data-category-id="DIC_kwDOLeAbmc4CeCQd"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="dark_dimmed"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>

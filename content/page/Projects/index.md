@@ -11,7 +11,7 @@ menu:
         params:
             icon: link
 
-comments: false
+comments: true
 ---
 
 To use this feature, add `links` section to frontmatter.
@@ -31,3 +31,20 @@ links:
 ```
 
 `image` field accepts both local and external images.
+
+<script src="https://giscus.app/client.js"
+        data-repo="Aditya-dom/arawn.github.io"
+        data-repo-id="R_kgDOLeAbmQ"
+        data-category="General"
+        data-category-id="DIC_kwDOLeAbmc4CeCQd"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="dark_dimmed"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
