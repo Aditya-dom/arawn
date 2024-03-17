@@ -1,9 +1,9 @@
 ---
-title: Links
+title: Projects
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
+    description: Portfolio Showcase Unveiling Innovation and Creativity.
+    website: https:/Aditya-dom/github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
