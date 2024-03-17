@@ -1,7 +1,6 @@
 ---
 title: TechTrend
 description: Navigating the Digital Frontier
-image:
 
 # Badge style
 style:

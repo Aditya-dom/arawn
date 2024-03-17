@@ -1,7 +1,6 @@
 ---
 title: Cricket
 description: Cricket sports
-image:
 
 # Badge style
 style:

@@ -19,7 +19,7 @@ subtitle = "We live by the Code & was raised by ethics."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/avatar.jpeg"
 
 [article]
 math = false
