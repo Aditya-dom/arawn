@@ -1,3 +1,58 @@
 /*
     You can add your own custom styles here.
 */
+
+// Define your color palette
+$primary-color: #d8e0e7;
+$secondary-color: #6c757d;
+$success-color: #28a745;
+$danger-color: #dc3545;
+$warning-color: #ffc107;
+$info-color: #17a2b8;
+
+// Define your typography
+$font-family: Arial, sans-serif;
+$font-size-base: 16px;
+$line-height-base: 1.5;
+$link-color: $secondary-color;
+
+
+// Define your spacing
+$spacing-unit: 8px;
+
+// Apply styles to elements
+body {
+  font-family: $font-family;
+  font-size: $font-size-base;
+  line-height: $line-height-base;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $primary-color;
+}
+
+a {
+  color: $secondary-color;
+  text-decoration: none;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+button {
+  padding: $spacing-unit;
+  background-color: $primary-color;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: darken($primary-color, 10%);
+  }
+}
+
+// Add more styles as needed...

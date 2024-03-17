@@ -6,6 +6,6 @@ math: true
 categories:
     - Blog 
 tags:
-    - Macstepup
+    - MBP-setup
 ---
-## Math
+## My book set up
