@@ -8,7 +8,7 @@ tags:
 
 slug: mac-system-setup
 
-weight: 3    # You can add weight to some posts to override the default sorting (date descending)
+weight: 4    # You can add weight to some posts to override the default sorting (date descending)
 ---
 # System Setup Log
 

@@ -8,7 +8,7 @@ categories:
     - Blog 
 tags:
     - Music
-weight: 1      # You can add weight to some posts to override the default sorting (date descending)
+weight: 2      # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 In the tapestry of human experience, few threads are as intricately woven as the connection between music and emotions. Across cultures and centuries, music has served as a conduit for expressing the deepest recesses of the human soul, stirring emotions that words alone often fail to capture. Yet, within the rich tapestry of Hindu mythology, this connection takes on an even more profound dimension, intertwining with the divine itself.
