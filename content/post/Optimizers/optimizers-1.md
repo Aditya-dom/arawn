@@ -14,7 +14,7 @@ Happy Holi! This <strike>is going to</strike> was supposed to be a long
 one, so sit back and grab a chocolate gujiya (and preferably view this on your laptop)
 
 <center>
-<iframe src="https://github.com/Aniruddha-Deb/aniruddha-deb.github.io/blob/main/content/articles/2023/res/intro_plot.html" style="width: 100%; height: 650px; border: 0"></iframe>
+<iframe src="/aniruddha-deb.github.io/content/articles/2023/res/intro_plot.html" style="width: 100%; height: 650px; border: 0"></iframe>
 
 Some optimization algorithms. Click on a colour in the legend to hide/show it
 </center>
