@@ -7,7 +7,6 @@ tags:
 - Machine Learning
 - Deep Learning
 slug: optimizers-1
-image: https://blog.paperspace.com/content/images/size/w1050/2018/05/convex_cost_function.jpg
 weight: 1
 ---
 
