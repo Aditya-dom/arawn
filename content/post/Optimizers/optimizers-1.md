@@ -7,6 +7,7 @@ tags:
 - Machine Learning
 - Deep Learning
 slug: optimizers-1
+image: https://c.mql5.com/2/73/article_img.png
 weight: 1
 ---
 
