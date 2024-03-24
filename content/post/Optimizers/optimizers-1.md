@@ -9,8 +9,8 @@ tags:
 slug: optimizers-1
 ---
 
-Happy New Year! This <strike>is going to</strike> was supposed to be a long
-one, so sit back and grab a chocolate (and preferably view this on your laptop)
+Happy Holi! This <strike>is going to</strike> was supposed to be a long
+one, so sit back and grab a chocolate gujiya (and preferably view this on your laptop)
 
 <center>
 <iframe src="intro_plot.html" style="width: 100%; height: 650px; border: 0"></iframe>
