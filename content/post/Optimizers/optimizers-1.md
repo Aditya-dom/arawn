@@ -494,7 +494,7 @@ def AdamW(L, G, p0, eps=1e-3, b1=0.9, b2=0.999, l=1):
 ---
 
 This was supposed to also feature adaptive optimizers (AMSGrad, RMSProp, Adam 
-and friends), but due to CCIC happening in the last week of December, I didn't
+and friends), but due to CCIC happening in the last week of March, I didn't
 get the time to do this properly, and the second semester starts <strike>in a
 couple days</strike> tomorrow, so hard deadline :/ I'll try to get part 2 out
 as soon as possible, but it might be a while. In the meantime, exploring the
