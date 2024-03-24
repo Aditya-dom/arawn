@@ -7,7 +7,6 @@ tags:
 - Machine Learning
 - Deep Learning
 slug: optimizers-1
-weight: 1
 ---
 
 Happy Holi! This <strike>is going to</strike> was supposed to be a long
