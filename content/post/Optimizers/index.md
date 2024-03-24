@@ -6,7 +6,7 @@ tags:
 - Programming
 - Machine Learning
 - Deep Learning
-slug: optimizers-Part 1
+slug: optimizers-1
 weight: 1
 ---
 
