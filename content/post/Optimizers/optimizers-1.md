@@ -13,7 +13,7 @@ Happy Holi! This <strike>is going to</strike> was supposed to be a long
 one, so sit back and grab a chocolate gujiya (and preferably view this on your laptop)
 
 <center>
-<iframe src="intro_plot.html" style="width: 100%; height: 650px; border: 0"></iframe>
+<iframe src="/content/post/Optimizers/res/intro_plot.html" style="width: 100%; height: 650px; border: 0"></iframe>
 
 Some optimization algorithms. Click on a colour in the legend to hide/show it
 </center>
@@ -153,7 +153,7 @@ for my needs. We finally use the following loss function, and it's been
 exported to the file `func.dill` if you want to load it in (use dill to load it, 
 as there were some errors serializing it via pickle)
 
-<iframe src="/content/post/Optimizers/loss_fn_interactive.html" style="width: 100%; height: 620px; border: 0"></iframe>
+<iframe src="/content/post/Optimizers/res/loss_fn_interactive.html" style="width: 100%; height: 620px; border: 0"></iframe>
 
 The convergence criterion that's used for all optimizers is when the gradient norm 
 is less than 0.05, and all the optimizers are limited to take atmost 1000 steps.
@@ -266,7 +266,7 @@ velocity, and at places where the path is straight, both the gradient and the
 velocity are parallel. We can draw out the update vectors at two points in the
 path above to see how this works.
 
-<iframe src="/content/post/Optimizers/momentum_vectors.html" style="width: 100%; height: 650px; border: 0"></iframe>
+<iframe src="/content/post/Optimizers/res/momentum_vectors.html" style="width: 100%; height: 650px; border: 0"></iframe>
 
 <h2 id="sgd-with-nesterov-momentum">SGD with Nesterov Momentum</h2>
 
@@ -286,7 +286,7 @@ at $\theta_{t} + \alpha v_{t}$ (the position we will be at, if the gradient is
 zero) rather than at $\theta_{t}$ (our current position). This 'pulls' the
 gradient back if we jump across a minima
 
-<iframe src="/content/post/Optimizers/nesterov_comparision.html" style="width: 100%; height: 650px; border: 0"></iframe>
+<iframe src="/content/post/Optimizers/res/nesterov_comparision.html" style="width: 100%; height: 650px; border: 0"></iframe>
 
 The implementation and update are quite similar, with just a minor update to
 the gradient calculation.
@@ -315,7 +315,7 @@ before, and show the directions in which the path is pulled (their sum is the
 next resultant step). Playing around with this should give you an idea of how
 these algorithms update themselves
 
-<iframe src="/content/post/Optimizers/comparision_plot.html" style="width: 100%; height: 650px; border: 0"></iframe>
+<iframe src="/content/post/Optimizers/res/comparision_plot.html" style="width: 100%; height: 650px; border: 0"></iframe>
 
 Even though there are a large number of new algorithms for optimization, SGD
 with Nesterov momentum (along with Adam) remains the algorithm of choice for
