@@ -1,6 +1,6 @@
 ---
 title: Optimizers, Part 1
-publishDate: '2023-01-02T12:25:00'
+publishDate: '2024-03-24T12:25:00'
 categories: Programming
 tags:
 - Programming
