@@ -119,7 +119,7 @@ qualitatively compare different optimization algorithms with each other
 <center>
 
 ![loss_landscape_goldstein](loss_landscape_goldstein.png)
-<img src="/content/post/Optimizers/loss_landscape_goldstein.png" width=800px></img>
+
 
 The loss landscape of ResNet-56 (source: Goldstein et al)
 </center>
