@@ -39,10 +39,4 @@ url = "/index.xml"
 [social.params]
 icon = "rss"
 
-[[social]]
-identifier = "Instagram"
-name = "Instagram"
-url = "https://www.instagram.com/arawn_.10/"
 
-[social.params]
-icon = "brand-instagram"
