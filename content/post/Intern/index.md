@@ -6,6 +6,7 @@ tags:
 - Programming
 - Probability
 slug: intern-hunting
+weight: 1
 ---
 
 > Not everything goes exactly as planned. That's why it's a plan, not a certainty. 
