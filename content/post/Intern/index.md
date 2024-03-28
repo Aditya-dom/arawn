@@ -20,13 +20,13 @@ To-do; atleast one Internship in the first year, and I'm glad to say that I have
 
 Before this entire _joomla_ started, I asked myself: _What is it I want from an intern_? 
 
-- I wanted to tour: I want to go on a some Solo-trip aboroad, but my main goal is my internship, as mentioned earlier(🦍). and I was tired of hearing/seeing how others were roaming the world while I was scooping Ball off the floor of my room.
-- I wanted something that paid well: Apart from the feel-good factor, a good paying intern would put money for my first Car' in the SIP/Stocks or in any assets or I'll just trade with that money who knows but main goal is ... as mentioned earlier.
+- I want to tour: I want to go on a some Solo-trip aboroad, but my main goal is my internship, as mentioned earlier(🦍). and I was tired of hearing/seeing how others were roaming the world while I was scooping Ball off the floor of my room.
+- I want something that paid well: Apart from the feel-good factor, a good paying intern would put money for my first Car' in the SIP/Stocks or in any assets or I'll just trade with that money who knows but main goal is ... as mentioned earlier.
 
 Above both of these:
 
-- I wanted something that would **help me in the future**: Research or core CS/Math roles would provide both relevant work experience and also appeal to Trading firms when I go for my fulltime work. I definetly didn't want to pick up finance/consulting/_enterprise/backend/frontend_ development.
-- I wanted something **fun**: Writing high-stakes trading algorithms, making hyper-efficient and superfast systems on embedded devices, implementing object recognition on embedded sensors, receiving patents/publishing papers on new models and algorithms is a small but representative subset of the kind of work I wanted to do this summer. 
+- I want something that would **help me in the future**: Research or core CS/Math roles would provide both relevant work experience and also appeal to Trading firms when I go for my fulltime work. I definetly didn't want to pick up finance/consulting/_enterprise/backend/frontend_ development.
+- I want something **fun**: Writing high-stakes trading algorithms, making hyper-efficient and superfast systems on embedded devices, implementing object recognition on embedded sensors, receiving patents/publishing papers on new models and algorithms is a small but representative subset of the kind of work I wanted to do this summer. 
 
 Another way of looking at this is **saying no**: proceed by elimination rather than addition. This requires knowing yourself very well, and seeing if a role really resonates with what you want to do. Eg if you're a product person and have worked in programming clubs, developing systems, then a SDE role would appeal to you. Don't apply to anything other than SDE.
 
@@ -34,7 +34,7 @@ With this in mind, I built up a small shortlist of companies to apply to. Mostly
 
 ## Bluffington, but with higher stakes
 
-Intern season this time formally started off in early July, when talks were held by the Office of Career Services and the resumé portal opened for a short while (albeit there were several deadline extensions). For context, your OCS CV is what companies would shortlist you based on, and for everything you wrote on there, proof was required. I didn't have much to put on it except a large number of projects, some Bug hunter Achievements, And my previous experience at [Density](https://density.exchange/) and some volunteer experience, and I believe that's more than enough for a Tech CV (where shortlisting is mostly done either through CG or through your performance in some arcane test that the company conjures). Just be completely aware of what you're putting in there, and what each project was: the CV is used for HR/Face to face interviews, and you'll probably be quizzed on atleast a couple domains where you've done projects. And please, please, _don't bluff_.
+Intern season this time formally started off in early July, when talks were held by the Office of Career Services and the resumé portal opened for a short while (albeit there were several deadline extensions). For context, your CV is what companies would shortlist you based on, and for everything you wrote on there, proof was required. I didn't have much to put on it except a large number of projects, some Bug hunter Achievements, And my previous experience at [Density](https://density.exchange/) and some volunteer experience, and I believe that's more than enough for a Tech CV (where shortlisting is mostly done either through CG or through your performance in some arcane test that the company conjures). Just be completely aware of what you're putting in there, and what each project was: the CV is used for HR/Face to face interviews, and you'll probably be quizzed on atleast a couple domains where you've done projects. And please, please, _don't bluff_.
 
 PS: this is only relevant to tech/research roles. I have no idea what makes a good finance/consult CV.
 
