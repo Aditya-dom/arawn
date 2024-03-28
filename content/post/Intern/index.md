@@ -96,7 +96,7 @@ What does your next LinkedIn post say?
 _drumrolls_
 
 {{< spoiler prompt="I'm pleased to announce that I'll be joining ..." >}} 
-I'm pleased to announce that I'll be joining <a href="https://density.exchange/">Density</a>as a <b>Algorithmic Trading Intern</b>. I'll be working on optimizing their low-latency systems and finding out what goes into the tech that makes one of the world's leading market makers tick.
+I'm pleased to announce that I'll be joining <b>XYZ</b>  as a <b>Algorithmic Trading Intern</b>. I'll be working on optimizing their low-latency systems and finding out what goes into the tech that makes one of the world's leading market makers tick.
 {{</ spoiler >}} 
 
 `</linkedin post>`
