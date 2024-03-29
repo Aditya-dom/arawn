@@ -24,7 +24,7 @@ Anyways,So, my aim has been accomplished.
 Before this entire _joomla_ started, I asked myself: _What is it I want from an intern_? 
 
 - I want to tour: I want to go on a some Solo-trip aboroad, but my main goal is my internship, as mentioned earlier(🦍). and I was tired of hearing/seeing how others were roaming the world while I was scooping Ball off the floor of my room.
-- I want something that paid well: Apart from the feel-good factor, a good paying intern would put money for my first Car' in the SIP/Stocks or in any assets or I'll just trade with that money who knows but main goal is ... as mentioned earlier.
+- I want something that paid well: Apart from the feel-good factor, a good paying intern would put money for my first Car' in the SIPs/Stocks or in anyother assets or I'll just trade with that money who knows but main goal is ... as mentioned earlier.
 
 Above both of these:
 
