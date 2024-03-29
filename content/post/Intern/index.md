@@ -1,7 +1,7 @@
 ---
 title: Intern Hunting
 date: 2024-03-29 00:00:00+0000
-categories: General
+categories: Blog 
 image: trade.jpeg
 tags:
 - Programming
