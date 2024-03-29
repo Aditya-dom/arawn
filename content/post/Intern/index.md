@@ -14,7 +14,8 @@ weight: 1
 
 ## Aim was 
 
-To-do; atleast one Internship in the first year, and I'm glad to say that I have been selected as an Algorithmic Trading Intern at [Density](https://density.exchange/) in First semester.(🏌️‍♂️)~~Rejections laughing in the corner.~~ Anyways,So,my aim has been accomplished.
+To-do; atleast one Internship in the first year, and I'm glad to say that I have been selected as an Algorithmic Trading Intern at [Density](https://density.exchange/) in First semester.(🏌️‍♂️)~~Rejections laughing in the corner.~~ 
+Anyways,So, my aim has been accomplished.
 
 >NOW (🦍)
 
@@ -51,6 +52,8 @@ PS: this is only relevant to tech/research roles. I have no idea what makes a go
 
 On the other hand, this does require a lot of tenacity and self-belief, and a _good CG/plenty of skill as well_. There's no one right answer, just make sure you don't switch your strategy out of desperation midway (eg go through your list, then realize that if there are too many companies open and your chances are low, apply to all of them, or vice versa). Go in with a plan, and try to stick to it as much as possible from your end, because you can't control what happens outside.
 
+>NOTE: Everything Matters..every piece of acds/skills.
+
 ## Longlists 
 
 After applications, shortlists for tests begin to arrive. Companies have free will in how they'll shortlist people: some are very transparent, and some are opaque to the point of being devious. The test processes for some of the most wanted companies spans multiple tests rather than just one, so keep an eye out on that as well. Also, while companies will do their best to avoid test slot clashes, you will become a walking zombie if you take too many or, in the worst case, will have a bunch of slot clashes. Combined with 8am offline classes and 11pm tests, _just don't push yourself by applying to as many companies as you can_. Just don't.
@@ -86,7 +89,7 @@ This should be a no-brainer by this point. However, more context: Quant got into
 
 ## Faceoff (be it online or offline)
 
-> I have three Interview experiences with real person at [Trexquant Investment Lp](https://trexquant.com/), [Density](https://density.exchange/) and, Recently, one with AI at [Mercor](https://mercor.com/)
+> I have three Interview experiences with real person at [Trexquant Investment Lp](https://trexquant.com/), [Density](https://density.exchange/) and, Recently, one with AI at [Mercor](https://mercor.com/) till now. 
 
 So you're walking in for interviews, sharply dressed, with your resume/CV in hand. What now? It's easy to say "Just be cool", but very hard to do. I think the most important thing is to go with the flow and be yourself, atleast in tech. And remember to keep it simple: start off with the simplest solution you can think of, then layer in complexity. In an interview, emphasis is on communication and clarity of thought rather than complexity, and if you're starting off simple, it's much easier to hook in your interviewer and keep him in your thought process rather than starting off complex and trying to break down complexity to explain to him (mostly because they anyway have a more complex problem, which they'll spring upon you once you solve the simple problem correctly).
 
