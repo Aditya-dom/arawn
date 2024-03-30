@@ -29,7 +29,7 @@ Before this entire _joomla_ started, I asked myself: _What is it I want from an 
 Above both of these:
 
 - I want something that would **help me in the future**: Research or core CS/Math roles would provide both relevant work experience and also appeal to Trading firms when I go for my fulltime work. I definetly didn't want to pick up finance/consulting/_enterprise/backend/frontend_ development.
-- I want something **fun**: Writing high-stakes trading algorithms, making hyper-efficient and superfast systems on embedded devices, implementing object recognition on embedded sensors, receiving patents/publishing papers on new models and algorithms is a small but representative subset of the kind of work I wanted to do this summer. 
+- I want something **fun**: Writing high-stakes trading algorithms, making hyper-efficient and superfast systems on embedded devices, implementing object recognition on embedded sensors, receiving patents/publishing papers on new models and algorithms is a small but representative subset of the kind of work I want to do this summer. 
 
 Another way of looking at this is **saying no**: proceed by elimination rather than addition. This requires knowing yourself very well, and seeing if a role really resonates with what you want to do. Eg if you're a product person and have worked in programming clubs, developing systems, then a SDE role would appeal to you. Don't apply to anything other than SDE.
 
