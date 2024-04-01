@@ -20,36 +20,5 @@ $line-height-base: 1.5;
 $link-color: $secondary-color;
 $link-hover-color: $primary-color;
 
-// Define your spacing
-$spacer: 1rem;
-$spacer-x: $spacer * 1.5;
-$spacer-y: $spacer * 1.5;
-$spacer-y-lg: $spacer * 3;
-$spacer-y-xl: $spacer * 4;
-$spacer-y-xxl: $spacer * 5;
-$spacer-y-xxxl: $spacer * 6;
 
-// Define your border radius
-$border-radius: 0.25rem;
-
-// Define your breakpoints
-$breakpoint-xs: 0;
-$breakpoint-sm: 576px;
-$breakpoint-md: 768px;
-$breakpoint-lg: 992px;
-$breakpoint-xl: 1200px;
-
-// Define your container
-$container-max-widths: (
-    sm: 540px,
-    md: 720px,
-    lg: 960px,
-    xl: 1140px
-);
-
-// Define your grid columns
-$grid-columns: 12;
-
-// Define your grid gutter width
-$grid-gutter-width: 30px;
 
